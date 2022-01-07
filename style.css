@@ -71,3 +71,60 @@ hr
     margin: 20px auto;
     border-bottom: none;
 }
+.left-div
+{   width: 30%;
+    float: left;
+}
+.right-div
+{  width: 70%;
+    float: left;
+}
+
+.common-hr
+{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.content
+{
+    margin-bottom: 30px;
+}
+
+
+.right_left
+{
+    width: 50%;
+    float: left;
+}
+
+
+.right_right
+{
+    width: 50%;
+    float: right;
+}
+
+.my_foot
+{
+    text-align: center;
+   
+    background-color: black;
+    padding: 10px;
+}
+
+.my_foot a{
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.my_foot p 
+{
+    color: white;
+    margin-top: 10px;
+}
